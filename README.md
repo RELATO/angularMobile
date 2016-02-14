@@ -23,8 +23,21 @@ foi necessário ajustar os pacotes do gulp assim (package.json)
     "gulp-minify-css": "^1.2.3",
     "gulp-rename": "^1.2.2"
 
+Segue abaixo a lista de comandos para executar a aplicação:
 
+    npm install -g cordova ionic
+    npm install -g gulp
+    git clone https://github.com/planetoftheweb/angularMobile.git
+    cd angularMobile
+    npm install
+    bower install
+    gulp
+    ionic serve
+    
+Teste o app no navegador ( ajuste o tamanho da tela ) e depois teste no emulador assim:
 
+    ionic platform add ios
+    ionic emulate ios --target="iPhone-6"
 
 
 
