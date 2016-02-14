@@ -3,17 +3,17 @@
 ## Dicas Relato
 Ao executar o projeto com o ambiente a seguir ( ionic info ) 
 
-Cordova CLI: 6.0.0
-Gulp version:  CLI version 3.9.1
-Gulp local:   Local version 3.9.1
-Ionic Version: 1.0.0-rc.1
-Ionic CLI Version: 1.7.14
-Ionic App Lib Version: 0.7.0
-ios-deploy version: 1.8.4 
-ios-sim version: 5.0.6 
-OS: Mac OS X El Capitan
-Node Version: v5.5.0
-Xcode version: Xcode 7.2.1 Build version 7C1002 
+    Cordova CLI: 6.0.0
+    Gulp version:  CLI version 3.9.1
+    Gulp local:   Local version 3.9.1
+    Ionic Version: 1.0.0-rc.1
+    Ionic CLI Version: 1.7.14
+    Ionic App Lib Version: 0.7.0
+    ios-deploy version: 1.8.4 
+    ios-sim version: 5.0.6 
+    OS: Mac OS X El Capitan
+    Node Version: v5.5.0
+    Xcode version: Xcode 7.2.1 Build version 7C1002 
 
 foi necessário ajustar os pacotes do gulp assim (package.json)
 
